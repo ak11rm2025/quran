@@ -3,7 +3,7 @@ export default function handler(req, res) {
     {
       id: 1,
       title: "quran",
-      file_url: "http://aqar.rf.gd/media/quran.mp4",
+      file_url: "https://quran-beta.vercel.app/quran.mp4",
       sort_order: 1
     }
   ]);
